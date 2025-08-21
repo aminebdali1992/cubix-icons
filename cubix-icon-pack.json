@@ -78,5 +78,13 @@
    "Style": "Light",
    "Type": "Regular",
    "Value": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.7024 11.1937L16.3798 16.4869C16.1572 17.3775 15.357 18.0025 14.439 18.0025H9.56098C8.64258 18.0028 7.84189 17.3779 7.61917 16.4869L6.29762 11.1937C6.09839 10.4004 5.9975 9.58558 5.9975 8.76766V4.99709C5.9975 3.89206 6.8933 2.99625 7.99833 2.99625H16.0017C17.1067 2.99625 18.0025 3.89206 18.0025 4.99709V8.76766C18.0025 9.58558 17.9016 10.4004 17.7024 11.1937V11.1937Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M17.5023 12H6.49771\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path d=\"M18.0025 6.99792H5.9975\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.49895 18.0025H14.501C15.0536 18.0025 15.5015 18.4504 15.5015 19.0029V19.5031C15.5015 20.3319 14.8296 21.0038 14.0008 21.0038H9.99916C9.17039 21.0038 8.49854 20.3319 8.49854 19.5031V19.0029C8.49854 18.4504 8.94644 18.0025 9.49895 18.0025Z\" stroke=\"#323232\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/> </svg>"
+ },
+ {
+   "id": "100",
+   "Name": "Arrow",
+   "Category": "Arrow",
+   "Style": "Outline",
+   "Type": "Regular",
+   "Value": "<svg width=\"\"24\"\" height=\"\"24\"\" viewBox=\"\"0 0 24 24\"\" fill=\"\"none\"\" xmlns=\"\"http://www.w3.org/2000/svg\"\"> <path d=\"\"M14.8282 9.17221L9.17135 14.8291\"\" stroke=\"\"#29313D\"\" stroke-width=\"\"1.5\"\" stroke-linecap=\"\"round\"\" stroke-linejoin=\"\"round\"\"/> <path d=\"\"M14.8281 13.4141V9.17142H10.5855\"\" stroke=\"\"#29313D\"\" stroke-width=\"\"1.5\"\" stroke-linecap=\"\"round\"\" stroke-linejoin=\"\"round\"\"/> <path d=\"\"M3 7.57546V6.28125C3 4.46907 4.46907 3 6.28125 3H7.59733M21 7.57546V6.28125C21 4.46907 19.5309 3 17.7188 3H16.402M16.402 21H17.7188C19.5309 21 21 19.5309 21 17.7188V16.4035M3 16.4035V17.7188C3 19.5309 4.46907 21 6.28125 21H7.59733\"\" stroke=\"\"#29313D\"\" stroke-width=\"\"1.5\"\" stroke-linecap=\"\"round\"\"/> </svg>"
  }
 ]
